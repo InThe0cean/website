@@ -47,3 +47,7 @@ a:hover {
     margin-top: 15px;
     margin-left: 20px;
 }
+canvas{
+    background: #000000;
+    margin-top: 100px;
+}
